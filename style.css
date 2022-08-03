@@ -1,0 +1,139 @@
+/* section{
+    background-color: antiquewhite;
+} */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+    color: white;
+    /* border: 1px solid aqua; */
+    background-color: #614c4c73;
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 53px;
+    font-size: 21px;
+   
+}
+
+.menu .nav-link{
+    text-decoration: none;
+    color:white ;
+}
+.Writing-part {
+    color: white;
+    text-align: center;
+    padding: 120px 0;
+  }
+
+  h1{
+      font-size: 50px;
+  }
+  /* .single-card{
+    border: 1px solid blanchedalmond;
+    padding: 20px;
+    margin-bottom: 30px;
+    flex: 0 0 32%;
+    background-color: rgb(179, 148, 108);
+} */
+
+
+.sigle-card{
+    /* border: 1px solid rgb(136, 131, 104); */
+    padding: 18px;
+    margin-bottom: 30px;
+    background-color: #cbcac8;
+    height: 416px;
+    width: 300px;
+}
+.card-part {
+    display: flex;
+    flex-direction: row;
+    gap: 11px;
+    padding: 24px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+section{
+   border-bottom:  1.8px solid #9e9eca;
+   
+}
+
+h2{
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    font-size: 18px;
+  }
+.text {
+    align-items: center;
+    text-align: center;
+    padding: 69px;
+  }
+.container {
+    gap: 1px;
+    display: flex;
+  }
+.container img {
+    float: left;
+    width: 402px;
+    height: 235px;
+    padding: 30px;
+  }
+.section .car-part{
+    background-color: blue;
+}
+
+img{
+     float: right; 
+    
+}
+
+.container2{
+    padding: 47px;
+}
+
+.single-card {
+    background-color: rgb(153, 170, 170);
+    width: 215px;
+    height: 333px;
+    align-items: center;
+    margin-bottom: 40px;
+    margin: 11px;
+    padding: 11px;
+  }
+
+.flex-3{
+    display: flex;
+    gap: 20px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 19px;
+  }
+
+.container3 {
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+  }
+
+.Latest-part {
+    padding: 17px;
+    margin: 1px;
+  }
+
+.finished-part {
+    display: flex;
+    background-color: #8b848429;;
+    justify-content: space-between;
+    gap: 10px;
+  }
